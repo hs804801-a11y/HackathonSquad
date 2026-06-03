@@ -44,7 +44,7 @@ Every 20,000 iterations, the active team resets to the best known solution to pr
 
 | File | Description |
 |------|-------------|
-| `hackathon_squad.py` | Main solver — submit this |
+| `hackathon_squad.py` | Main solver |
 | `tester.py` | Automated correctness verifier |
 | `test1.txt` | Sample: chain of 5 coders |
 | `test2.txt` | Sample: chain of 8 coders |
